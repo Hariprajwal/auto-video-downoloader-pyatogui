@@ -1,2 +1,2 @@
-# auto-video-downoloader-pyatogui
+# auto-video-downloader-pyatogui
 using pyatogui downloades the video 
